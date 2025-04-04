@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4haUprwRh8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\Documents\\ST10452412 KEEBINE M.H\\ChatBot\\ChatBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512",
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.windows.extensions\\9.0.3\\system.windows.extensions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
